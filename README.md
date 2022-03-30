@@ -1,10 +1,10 @@
-<h1 align="center">The Gorgeous Login</h1>
+<h1 align="center">App</h1>
 
 <h3 align="center">
-  A login page built with flutter inspired by a design found on Uplabs
+ Una página de inicio de sesión construida con flutter inspirada en un diseño encontrado en Uplabs
 </h3>
 
-Uplabs design        |  Flutter rendering
+Diseño        |  Flutter
 :-------------------------:|:-------------------------:
 ![original-design](./github/template.jpg)  |   ![](./github/login.gif)
 
